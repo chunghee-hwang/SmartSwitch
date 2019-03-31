@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android" android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="horizontal"
+    android:gravity="center"
+    android:padding="8dp"
+    >
+
+    <TableLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:stretchColumns="*"
+        >
+
+        <TableRow
+            android:layout_width="0dp"
+            android:gravity="center">
+
+            <TextView
+                android:id="@+id/dateText"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:background="@drawable/border"
+                android:fontFamily="sans-serif"
+                android:text="2018년 10월 28일"
+                android:textColor="#000000"
+                />
+
+            <TextView
+                android:id="@+id/timeText"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:background="@drawable/border"
+                android:text="오후 11시 10분" />
+
+            <TextView
+                android:id="@+id/onoffText"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="켜진 시각"
+                android:background="@drawable/border"
+                android:textColor="@color/colorAccent" />
+        </TableRow>
+
+    </TableLayout>
+</LinearLayout>

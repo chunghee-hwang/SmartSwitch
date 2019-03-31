@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/delStat"
+        android:title="기록 모두 지우기"
+        android:icon="@drawable/icon"
+        app:showAsAction="never"
+        />
+</menu>

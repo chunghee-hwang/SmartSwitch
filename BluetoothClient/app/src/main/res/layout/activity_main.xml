@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:gravity="center"
+    android:id="@+id/mainLayout"
+    >
+    <Button
+        android:id="@+id/turnOnButton"
+        android:layout_width="199dp"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:text="켜기"
+        android:enabled="false"
+        android:textSize="30sp" />
+    <Button
+        android:id="@+id/turnOffButton"
+        android:layout_width="199dp"
+        android:layout_height="wrap_content"
+        android:text="끄기"
+        android:textSize="30sp"
+        android:enabled="false"
+        android:layout_gravity="center"
+        />
+    <Switch
+        android:id="@+id/alarmSwitch"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textColor="@color/colorPrimary"
+        android:switchMinWidth="20dp"
+        android:layout_gravity="center"
+
+        android:text="기본 알람 시간에 맞춰 불켜기"
+        />
+    <TextView
+        android:id="@+id/currentAlarmText"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textColor="@color/colorPrimaryDark"
+        android:layout_gravity="center"
+        />
+    <TextView
+        android:id="@+id/connectionStatus"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="연결 상태: 연결 안됨"
+        android:layout_margin="20dp"
+        android:textColor="@color/colorAccent"
+        />
+</LinearLayout>
