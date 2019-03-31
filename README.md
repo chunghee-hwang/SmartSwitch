@@ -16,4 +16,5 @@
 ![Alt text](https://github.com/hch0821/SmartSwitch/blob/master/images/image2.png)
 ![Alt text](https://github.com/hch0821/SmartSwitch/blob/master/images/image3.png)
 ![Alt text](https://github.com/hch0821/SmartSwitch/blob/master/images/image4.png)
-![Alt text](https://github.com/hch0821/SmartSwitch/blob/master/images/image5.png)
+
+![Alt text](https://github.com/hch0821/SmartSwitch/blob/master/images/image6.png)
