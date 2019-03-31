@@ -19,5 +19,5 @@
 ![Alt text](https://github.com/hch0821/SmartSwitch/blob/master/images/image3.png)
 ![Alt text](https://github.com/hch0821/SmartSwitch/blob/master/images/image4.png)
 
-#### 3. 블루투스 서버()가 돌아가는 모습
+#### 3. 블루투스 서버(라즈베리파이)가 돌아가는 모습
 ![Alt text](https://github.com/hch0821/SmartSwitch/blob/master/images/image6.png)
