@@ -9,4 +9,11 @@
 * 프로젝트 인원 : 4명
 * 프로젝트 기간 : 2018.10.03 ~ 2018.12.12
 
-### 
+### Project Details
+
+#### 블루투스 서버(라즈베리파이)와 클라이언트(앱)간의 프로토콜
+![Alt text](https://github.com/hch0821/SmartSwitch/blob/master/images/image1.png)
+![Alt text](https://github.com/hch0821/SmartSwitch/blob/master/images/image2.png)
+![Alt text](https://github.com/hch0821/SmartSwitch/blob/master/images/image3.png)
+![Alt text](https://github.com/hch0821/SmartSwitch/blob/master/images/image4.png)
+![Alt text](https://github.com/hch0821/SmartSwitch/blob/master/images/image5.png)
