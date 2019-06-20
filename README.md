@@ -11,8 +11,8 @@
 ### Project Details
 
 ##### 1. 블루투스 서버(라즈베리파이)와 클라이언트(앱)간의 프로토콜
-![Alt text](https://github.com/hch0821/SmartSwitch/blob/master/images/image1.png)
 ![Alt text](https://github.com/hch0821/SmartSwitch/blob/master/images/image2.png)
+![Alt text](https://github.com/hch0821/SmartSwitch/blob/master/images/image1.png)
 
 ##### 2. 코드 컴포넌트별 기능 정리
 ![Alt text](https://github.com/hch0821/SmartSwitch/blob/master/images/image3.png)
